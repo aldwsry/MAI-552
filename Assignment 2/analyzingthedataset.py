@@ -14,6 +14,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.preprocessing import StandardScaler
 import plotly.express as px
+import missingno as msno
 
 # Upload and Display
 columns = [
